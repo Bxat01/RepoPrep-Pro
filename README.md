@@ -69,7 +69,7 @@ Automatically skips:
 - **Executable Builder:** PyInstaller
 - **OS Support:** Windows 10 / 11 (64-bit)
 - **Portable:** Yes (no installer)
-- **Average Size:** ~15 MB
+- **Average Size:** ~45.5 MB
 
 ---
 
