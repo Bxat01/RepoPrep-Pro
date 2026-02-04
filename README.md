@@ -18,25 +18,8 @@ Prepare your repositories for sharing — clean, copy, and ship with confidence.
 
 ---
 
-## 📦 Download
-Get the latest release from the **GitHub Releases** page:
+Prebuilt binaries are available in the Releases section.
 
-👉 https://github.com/bxat01/RepoPrep-Pro/releases
-
-**Latest Version:** v1.0.0  
-**File:** `RepoPrep-1.0.0-win64.exe`  
-**Size:** ~15 MB  
-
----
-
-## 🚀 Quick Start
-1. Download `RepoPrep-1.0.0-win64.exe`
-2. Double-click to run (Windows 10/11)
-3. No installation required
-4. On first run, Windows SmartScreen may appear  
-   → Click **More info** → **Run anyway**
-
----
 
 ## 🎯 How It Works
 1. Select the **source project folder**
@@ -89,6 +72,48 @@ python main.py
 
 # Build executable
 pyinstaller --onefile --windowed --name RepoPrep main.py
+Requirements
+
+Python 3.8+
+
+PySide6
+
+PyInstaller
+
+❓ Why RepoPrep?
+
+Unlike manual cleanup or fragile scripts, RepoPrep creates a safe, clean
+copy of your project without modifying the original source.
+Perfect for GitHub publishing, sharing, or archiving.
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repository
+
+Create a feature branch
+
+Commit your changes
+
+Push to your branch
+
+Open a Pull Request
+
+📄 License
+
+MIT License — see the LICENSE file for details.
+
+👨‍💻 Author
+
+Ryder
+GitHub: https://github.com/Bxat01
+
+⭐ Support
+
+If you find RepoPrep useful, please consider giving it a ⭐ on GitHub.
+It really helps!
+
 Requirements
 
 Python 3.8+
