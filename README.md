@@ -49,8 +49,7 @@ MIT License © 2026 RyderDev
 
 text
 
-## 7. إنشاء ملف run.bat للتشغيل السريع
-
+## 7. Creating a run.bat file for quick execution
 ```batch
 @echo off
 chcp 65001 >nul
@@ -59,7 +58,7 @@ echo    RepoPrep Pro v2.0 (2026)
 echo    Professional Project Cleaner
 echo ========================================
 echo.
-
+```
 REM Check Python
 python --version >nul 2>&1
 if errorlevel 1 (
@@ -82,4 +81,4 @@ if errorlevel 1 (
     echo [ERROR] Failed to start application
     pause
 )
-المشرع فيه مشاكل عدة شوف بنفسك و كيف اصححها زي الترجمة لا تعمل حرفيا و ليضا لما اسوي زر تبعحساب الي هو تبع عددا ملفات ال يعمل تضهر 0 و احسو لا يقوم ب عمله مجرد واجهة ارسلي اكواد نهائية شغالة و بعا الغة الاساسية للبرنامج الانجليزية , ارسلي اكواد نهائية شغالة و لا تكتب شرح في الاكطاود نهئاي ةلا حرفيا لا تكتب شرحفي الاكوةاد لا ممنوع منعا باتا
+
