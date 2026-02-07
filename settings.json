@@ -1,0 +1,16 @@
+{
+  "language": "en",
+  "theme": "dark",
+  "auto_detect": true,
+  "use_gitignore": true,
+  "remove_node_modules": true,
+  "remove_build": true,
+  "remove_cache": true,
+  "recent_projects": [],
+  "window": {
+    "width": 1000,
+    "height": 700,
+    "x": 100,
+    "y": 100
+  }
+}
